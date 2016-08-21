@@ -10,9 +10,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.05017921
 color:
-  saturation: 0.1612903
+  saturation: 0.6236559
   brandStrength: 1
   lightness: 0.4964158
   brandColors:
@@ -21,6 +20,7 @@ color:
     - '#8E8E8E'
     - '#CCCCCC'
     - '#585858'
-  rhythmicContrast: 0.4874552
+  rhythmicContrast: 0.6541219
+typography_spectrum: 0.05017921
 layout_spectrum: 1
 name: The Moose The Band
